@@ -28,7 +28,7 @@ You are expected to have basic Java programming knowledge. The capstone applicat
 Associate Professor<br>
 
 University of Alberta
-http://www.cs.ualberta.ca/~kenw/
+http://www.cs.ualberta.ca/~kenw/<br>
 **Bio**
 Kenny Wong is an Associate Professor in the Department of Computing Science, at the University of Alberta, Canada. He received his B.Sc. and Ph.D. degrees in Computer Science from the University of Victoria, Canada. He has been a university instructor for 16 years, regularly teaching team-oriented, project-based software engineering courses, including several offerings of software process and product management. His research in software engineering focuses on a
 
