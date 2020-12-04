@@ -25,7 +25,7 @@ The Capstone Project involves a Java-based Android application that you will eva
 You are expected to have basic Java programming knowledge. The capstone application will require you to use Android Studio, an integrated development environment. To learn more about Android Studio, please review the tutorials for Windows or Mac.
 
 # Kenny Wong
-Associate Professor
+Associate Professor<br>
 
 University of Alberta
 http://www.cs.ualberta.ca/~kenw/
